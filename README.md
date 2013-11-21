@@ -9,4 +9,4 @@ collection of workflows for alfred.app that I use.
 
 ## Weather
 
-Source unknown
+[Source](http://dferg.us/weather-for-alfred-2/)
